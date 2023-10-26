@@ -32,7 +32,7 @@
 /* Styling for the navigation bar */
 @media(max-width: 768px){
     .navbar {
-        background-image: url("/images/Raga Svara Luxury Retreat India.jpg");
+        background-image: url("images/Raga Svara Luxury Retreat India.jpg");
         background-size: cover;
         background-repeat: no-repeat;
         background-position: center;
@@ -44,7 +44,7 @@
 
 
 .navbar {
-    background-image: url("/images/Raga Svara Luxury Retreat India.jpg");    
+    background-image: url("images/Raga Svara Luxury Retreat India.jpg");    
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
