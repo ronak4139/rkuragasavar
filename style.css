@@ -830,8 +830,17 @@ html{
 }
 
 .logo {
+    font-family: Cormorant Garamond Semo Bold;
+    color: rgb(93, 90, 90);
+    font-size: 20px;
     /* height: 100px; */
     text-align: center;
+}
+
+.centered-container{
+    font-family: Cormorant Garamond;
+    color: rgb(93, 90, 90);
+    font-size: 18px;
 }
 
 .contacticon-list {
